@@ -6,5 +6,5 @@
 // - Κάνουμε debug με F5
 
 int main() {
-    printf("This is simple .\n");
+    printf("This  .\n");
 }
